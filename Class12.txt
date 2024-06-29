@@ -1,0 +1,11 @@
+Date - 28 June 2024
+Video 12 completed
+Topics Covered -> Introduction, Tags, Attributes, Device Pixel ratio (DPR), Art Direction Problem (ADP), lists, tables, links and anchor tag, forms, semantic tags
+Video Link - https://youtu.be/aFBQbLIHXfk?si=cfJaDL4hf9H2CMgN
+Paste the above link on Google not on Youtube and you will be re-directed to the video
+Playlist Name - Web development course for beginners - Html, Css and JavaScript
+We can use W3S Schools to brief in brief and it also helps in providing the documentation
+Pexels Website -> Download free images
+compressnow.com -> Reduces the image size
+i love img -> Crop the image
+mdn for documentation purpose
